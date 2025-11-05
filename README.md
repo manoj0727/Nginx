@@ -30,3 +30,7 @@ It is widely used for large-scale, high-traffic applications due to its **asynch
 ```bash
 sudo apt update
 sudo apt install nginx
+
+
+-rw-r--r-- 1 root root 1.5K Nov 30  2023 nginx.conf
+
